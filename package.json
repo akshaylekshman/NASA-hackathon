@@ -1,0 +1,14 @@
+{
+  "name": "outpost-zero",
+  "version": "1.0.0",
+  "description": "Lunar outpost mission trainer for NASA Space Apps Challenge 2026",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node outpost-zero/tests/sim.test.js",
+    "balance": "node outpost-zero/tools/balance.js"
+  },
+  "keywords": ["nasa", "space-apps", "simulation", "education", "lunar"],
+  "author": "",
+  "license": "MIT"
+}
